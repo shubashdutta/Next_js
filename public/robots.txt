@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+
+Allow: /
+
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Crawl-delay can be added if you want to limit bot speed:
+# Crawl-delay: 10
+
+# Block specific bad bots (optional)
+# User-agent: BadBot
+# Disallow: /
