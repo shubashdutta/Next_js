@@ -1,7 +1,11 @@
 export default function Head() {
   return (
     <>
-      <title>Subash - Web Developer Portfolio</title>
+      <title>
+        Subash Karn Dutta (Shubash) | Web Developer Portfolio | React, Next.js,
+        Tailwind CSS
+      </title>
+
       <meta
         name="description"
         content="Portfolio of Subash, a modern web developer skilled in React, Next.js, Tailwind CSS, and Go."
