@@ -5,7 +5,7 @@ Disallow: /private/
 
 Allow: /
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://web-developer-subash.vercel.app/sitemap.xml
 
 # Crawl-delay can be added if you want to limit bot speed:
 # Crawl-delay: 10
