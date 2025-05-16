@@ -24,7 +24,7 @@ export default function ContactForm() {
         Let&#39;s Connect
       </h2>
       <p className="text-white/70 mb-6">
-        Send me a message and let's schedule a call!
+        Send me a message and let&#39;s schedule a call!
       </p>
 
       <form onSubmit={formhandle} className="space-y-4 max-w-md mx-auto p-4">
