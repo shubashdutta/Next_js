@@ -21,7 +21,7 @@ const Footerpage = () => {
               </a>
             </li>
             <li>
-              <a href="#project" className="hover:underline">
+              <a href="#project " className="hover:underline">
                 Projects
               </a>
             </li>
