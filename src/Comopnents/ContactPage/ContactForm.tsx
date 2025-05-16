@@ -20,7 +20,9 @@ export default function ContactForm() {
 
   return (
     <div className="bg-white/10 p-6 rounded-xl max-w-[900px] w-full">
-      <h2 className="text-4xl font-bold text-orange-400 mb-4">Let's Connect</h2>
+      <h2 className="text-4xl font-bold text-orange-400 mb-4">
+        Let&#39;s Connect
+      </h2>
       <p className="text-white/70 mb-6">
         Send me a message and let's schedule a call!
       </p>

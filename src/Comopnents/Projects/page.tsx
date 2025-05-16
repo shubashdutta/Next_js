@@ -5,6 +5,7 @@ import Image from "next/image";
 import zimra from "@/asstest/zimra.png";
 import roadsewa from "@/asstest/roadsewa.png";
 import N1 from "@/asstest/project1.png";
+import nepalOil from "@/asstest/Nepaloil.png";
 
 const project = [
   {
@@ -12,7 +13,7 @@ const project = [
     describe:
       "Dealer dashboard portal to manage fuel logistics and distribution.",
     link: "https://dashboard.nepaloilcorporation.com/dealer/login",
-    src: N1,
+    src: nepalOil,
   },
   {
     title: "Zimra Studio",

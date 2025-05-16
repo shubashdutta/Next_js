@@ -25,7 +25,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-gradient-to-b from-black via-[#2B1942] to-[#E48A57] text-white font-sans">
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} bg-gradient-to-b from-black via-[#2B1942] to-[#E48A57] text-white font-sans`}
+      >
         <ToastWrapper>{children}</ToastWrapper>
       </body>
     </html>

@@ -5,7 +5,6 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 import setting from "@/asstest/setting.png";
 import lighterImage from "@/asstest/lighter.png";
-import profileImage from "@/asstest/subash.png";
 import heroImage from "@/asstest/HeroImage.png";
 
 const Heropage = () => {

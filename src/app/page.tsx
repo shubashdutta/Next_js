@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Navbar from "./commonpage/Navbar/page";
 import Heropage from "@/Comopnents/HeroSection/page";
 import Aboutpage from "@/Comopnents/AboutPage/page";

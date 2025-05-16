@@ -2,7 +2,6 @@ import React from "react";
 import { BiPhone } from "react-icons/bi";
 import { LiaLinkedin } from "react-icons/lia";
 import { MdEmail } from "react-icons/md";
-import { toast } from "react-toastify";
 import ContactForm from "./ContactForm";
 
 const ContactPage = () => {
