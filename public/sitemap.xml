@@ -6,7 +6,7 @@
   <!-- Homepage -->
   <url>
     <loc>https://web-developer-subash.vercel.app/</loc>
-    <lastmod>2025-05-15T12:00:00+00:00</lastmod>
+    <lastmod>2025-05-16T12:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -14,7 +14,7 @@
   <!-- About page -->
   <url>
     <loc>https://web-developer-subash.vercel.app/about</loc>
-    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-05-16T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -22,7 +22,7 @@
   <!-- Contact page -->
   <url>
     <loc>https://web-developer-subash.vercel.app/contact</loc>
-    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-05-16T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -30,16 +30,8 @@
   <!-- Skills page -->
   <url>
     <loc>https://web-developer-subash.vercel.app/skills</loc>
-    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-05-16T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-
-  <!-- Blog (if exists) -->
-  <url>
-    <loc>https://web-developer-subash.vercel.app/blog</loc>
-    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
 </urlset>

@@ -1,4 +1,3 @@
-// app/head.tsx
 export default function Head() {
   return (
     <>
@@ -11,6 +10,9 @@ export default function Head() {
       <meta charSet="UTF-8" />
       <meta name="author" content="Subash" />
 
+      {/* Google Site Verification */}
+      <meta name="google-site-verification" content="google56f5bb3739241db8" />
+
       {/* Favicon */}
       <link rel="icon" href="/favicon.png" />
 
@@ -21,8 +23,14 @@ export default function Head() {
         property="og:description"
         content="Portfolio of Subash, a modern web developer skilled in React, Next.js, Tailwind CSS, and Go."
       />
-      <meta property="og:url" content="https://yourdomain.com" />
-      <meta property="og:image" content="https://yourdomain.com/og-image.png" />
+      <meta
+        property="og:url"
+        content="https://web-developer-subash.vercel.app/"
+      />
+      <meta
+        property="og:image"
+        content="https://web-developer-subash.vercel.app/og-image.png"
+      />
 
       {/* Twitter */}
       <meta name="twitter:card" content="summary_large_image" />
@@ -33,7 +41,7 @@ export default function Head() {
       />
       <meta
         name="twitter:image"
-        content="https://yourdomain.com/og-image.png"
+        content="https://web-developer-subash.vercel.app/og-image.png"
       />
     </>
   );
