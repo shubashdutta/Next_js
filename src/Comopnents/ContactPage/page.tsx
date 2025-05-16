@@ -12,7 +12,6 @@ const ContactPage = () => {
       className="max-w-full text-white p-8 bg-gray-900 min-h-screen"
     >
       <div className="mx-auto flex flex-col lg:flex-row space-y-8 lg:space-y-0 lg:space-x-8 max-w-[1000px]">
-        {/* Contact Info */}
         <div className="flex justify-center items-center">
           <ul className="space-y-4">
             <li className="flex items-center">

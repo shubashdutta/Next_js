@@ -5,6 +5,7 @@ import Aboutpage from "@/Comopnents/AboutPage/page";
 import ProjectPage from "@/Comopnents/Projects/page";
 import SkillsPage from "@/Comopnents/Skills/page";
 import ContactPage from "@/Comopnents/ContactPage/page";
+import Footerpage from "@/Comopnents/Footer/page";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <ProjectPage />
       <SkillsPage />
       <ContactPage />
+      <Footerpage />
     </>
   );
 }
